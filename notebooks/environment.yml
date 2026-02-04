@@ -1,0 +1,12 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - lightgbm=*
+  - matplotlib=*
+  - numpy=*
+  - pandas=*
+  - scikit-learn=*
+  - seaborn=*
+  - snowflake-ml-python=*
+  - statsmodels=*
