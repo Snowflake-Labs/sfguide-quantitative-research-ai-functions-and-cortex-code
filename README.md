@@ -2,11 +2,17 @@
 
 Transform unstructured earnings call transcripts into actionable investment insights using Snowflake Cortex AI, ML Model Registry, and intelligent agents - all accelerated by **Cortex Code**.
 
+**Built By:** Harry Yu, Senior Data Scientist, Finance | Snowflake 📧 [h.yu@snowflake.com](mailto:h.yu@snowflake.com) | 💼 [LinkedIn](https://www.linkedin.com/in/haiyue-harry-y-909098179) | 💻 [GitHub](https://github.com/sfc-gh-harryu)
+
+---
+
 ## Why This Matters
 
 Financial analysts spend countless hours manually reviewing earnings call transcripts. This guide demonstrates how to **systematically process unstructured data at scale using AI Functions** (`AI_COMPLETE`, `AI_SQL`) - turning raw transcript text into structured sentiment scores, analyst participation metrics, and investment signals that feed directly into quantitative models.
 
 > **Full Guide:** For detailed architecture, business impact, and use cases, see the [Snowflake Developers Guide](https://www.snowflake.com/en/developers/guides/quantitative-research-with-ai-functions-and-cortex-code/).
+
+---
 
 ## What You Will Learn
 - How to use **Cortex Code** to build entire ML pipelines through natural language
